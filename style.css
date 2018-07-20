@@ -1,0 +1,41 @@
+.margins {
+	margin-left:250px;
+	margin-right:250px;
+}
+.heading {
+	font-family:cursive,sans-serif;
+	color:sienna;
+	font-size: 75px;
+	text-align:center;
+	text-shadow:3px 3px lightsalmon;
+}
+nav {
+	background-color:wheat;
+	display:inline-block;
+	font-size:20px;
+	-webkit-transition: width 2s, height 2s;
+	transition:width 2s, height 2s;
+}	
+nav:hover {
+	width:775px;
+	height:50px;
+	font-size:30px;
+}
+.subheading {
+	font-family:cursive,sans-serif;
+	color:sienna;
+	font-size:35px;
+}
+.subsubhead {
+	font-family:cursive,sans-serif;
+	color:darkmagenta;
+	font-size:25px;
+}
+body {
+	background-color:peachpuff;
+}
+.orchid {
+	color:orchid;
+	font-family: cursive,sans-serif;
+	font-size:18px;
+}
